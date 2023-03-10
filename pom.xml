@@ -24,7 +24,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://localhost:9000//</sonar.host.url>
 		<sonar.login>admin</sonar.login>  
-		<sonar.login>3d3f7b22631b60aac3e882cdbc6e2ac221f5a914</sonar.login>
+		<sonar.login>admin</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>admin</id>
 	      <name>project1release</name>
-	      <url>http://localhost:8081/repository/project1release/</url>
+	      <url>http://localhost:8081/repository/gena-demo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>admin</id>
 	      <name>project1snapshot </name>
-	      <url>http://localhost:8081/repository/project1snapshot/</url>
+	      <url>http://localhost:8081/repository/gena-demo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
