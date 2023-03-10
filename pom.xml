@@ -95,13 +95,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>admin</id>
-	      <name>project1release</name>
+	      <name>gena-demo-release</name>
 	      <url>http://localhost:8081/repository/gena-demo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>admin</id>
-	      <name>project1snapshot </name>
+	      <name>gena-demo-snapshot</name>
 	      <url>http://localhost:8081/repository/gena-demo-snapshot/</url>
 	    </snapshotRepository>
 	    
